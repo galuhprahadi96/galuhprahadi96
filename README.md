@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @galuhprahadi96
+- 👋 Hi, I’m @gumelarid
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning System Analys
 - 💞️ I’m looking to collaborate on my github
